@@ -1,6 +1,6 @@
 # CampusConnect
 
-**Version:** 1.1  
+**Version:** 1.1.1  
 **A comprehensive platform for college students to share notes, track placements, and connect anonymously.**
 
 ![CampusConnect](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Prisma](https://img.shields.io/badge/Prisma-5-2D3748)
